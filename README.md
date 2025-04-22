@@ -1,4 +1,4 @@
-# WhaTicket Versão Saas com Módulo Kanban, Modo Noturno e as seguintes integrações:</br>
+# WhaTicket com as seguintes integrações:</br>
 
 Baseado no Whaticket Gold da PLW Designer
 
